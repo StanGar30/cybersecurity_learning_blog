@@ -1,6 +1,6 @@
 ---
 title: Starting My Cybersecurity Learning Blog
-date: 2026-06-04 20:00:00 +0200
+date: 2026-06-03 20:00:00 +0200
 categories: [Learning]
 tags: [cybersecurity, journey]
 ---

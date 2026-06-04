@@ -2,37 +2,37 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
----
+--------
 
-# О блоге
+# About the Blog
 
-Всем привет.
+Hello everyone.
 
-Этот блог посвящен моему пути в изучении кибербезопасности. Здесь я публикую заметки о том, что изучаю, какие инструменты использую, с какими трудностями сталкиваюсь и какие выводы делаю по мере своего развития в этой области.
+This blog is dedicated to my journey of learning cybersecurity. Here I publish notes about what I am studying, which tools I use, what difficulties I encounter, and what conclusions I draw as I continue to develop in this field.
 
-Блог служит одновременно дневником обучения, портфолио и сборником материалов, которые могут быть полезны другим начинающим специалистам.
+The blog serves as a learning journal, a portfolio, and a collection of materials that may be useful to other beginners.
 
-## Немного обо мне
+## A Little About Me
 
-До изучения кибербезопасности я долгое время занимался программированием и интересовался машинным обучением (ML) и обучением с подкреплением (RL). Эти направления остаются моими основными интересами и сегодня.
+Before getting into cybersecurity, I spent a long time programming and was interested in Machine Learning (ML) and Reinforcement Learning (RL). These areas remain some of my main interests to this day.
 
-Поэтому назвать себя полным новичком в IT я не могу — у меня уже есть определенный опыт разработки и понимание технических основ. Тем не менее в сфере кибербезопасности я также продолжаю учиться и развиваться.
+Therefore, I cannot call myself a complete beginner in IT — I already have some development experience and an understanding of technical fundamentals. Nevertheless, I am also continuing to learn and grow in the field of cybersecurity.
 
-## Текущая цель
+## Current Goal
 
-**From:** Beginner in Cybersecurity  
-**To:** Junior WEB Penetration Tester / Security Researcher
+**From:** Beginner in Cybersecurity
+**To:** Junior Web Penetration Tester / Security Researcher
 
-## Для кого этот блог
+## Who This Blog Is For
 
-В первую очередь для таких же начинающих специалистов, которые только начинают свой путь в информационной безопасности.
+First and foremost, it is for other beginners who are just starting their journey in information security.
 
-Я стараюсь делиться не только успехами, но и ошибками, непониманием отдельных тем и процессом поиска решений. Считаю, что такой подход зачастую полезнее, чем публикация исключительно готовых результатов.
+I try to share not only my successes, but also my mistakes, misunderstandings of certain topics, and the process of finding solutions. I believe this approach is often more useful than publishing only finished results.
 
-## Важное замечание
+## Important Notice
 
-Вся информация публикуется исключительно в образовательных и исследовательских целях. Любые действия, которые вы выполняете на основе материалов данного блога, вы совершаете на собственную ответственность.
+All information published here is intended solely for educational and research purposes. Any actions you take based on the materials presented on this blog are entirely your own responsibility.
 
-## Обратная связь
+## Feedback
 
-Если вы заметили ошибку, неточность или хотите поделиться советом — буду рад комментариям и конструктивной критике. Обсуждение и обмен опытом помогают учиться значительно быстрее.
+If you notice a mistake, an inaccuracy, or would like to share advice, I will be glad to receive comments and constructive criticism. Discussion and the exchange of experience help people learn much faster.

@@ -1,11 +1,11 @@
 ---
-title: Week 3 Progress Report
+title: Week 2 Progress Report
 date: 2026-06-15 13:00:00 +0200
 categories: [Progress]
 tags: [thm, htb, linux, beginner, web-security]
 ---
 
-# Week 3 Progress Report
+# Week 2 Progress Report
 
 This week I continued studying on TryHackMe and Hack The Box, while also practicing in my own lab environment.
 

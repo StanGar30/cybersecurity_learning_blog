@@ -5,8 +5,6 @@ categories: [Progress]
 tags: [thm, htb, linux, beginner]
 ---
 
-# Week 1 Progress Report
-
 ## What I Studied
 
 ### TryHackMe

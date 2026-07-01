@@ -5,8 +5,6 @@ categories: [Learning]
 tags: [cybersecurity, journey]
 ---
 
-# Starting My Cybersecurity Learning Blog
-
 Today I finally decided to start documenting my cybersecurity learning journey.
 
 I have already been studying for some time before creating this blog, so I will not try to recreate every step I have taken so far. Instead, this blog will focus on my progress from this point forward.

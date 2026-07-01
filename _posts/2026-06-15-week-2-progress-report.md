@@ -5,8 +5,6 @@ categories: [Progress]
 tags: [thm, htb, linux, beginner, web-security]
 ---
 
-# Week 2 Progress Report
-
 This week I continued studying on TryHackMe and Hack The Box, while also practicing in my own lab environment.
 
 ## What I Studied
